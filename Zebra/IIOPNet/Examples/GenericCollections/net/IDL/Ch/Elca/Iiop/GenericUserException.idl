@@ -1,0 +1,26 @@
+// auto-generated IDL file by CLS to IDL mapper
+
+// Ch\Elca\Iiop\GenericUserException.idl
+
+#include "orb.idl"
+#include "Predef.idl"
+
+#ifndef __Ch_Elca_Iiop_GenericUserException__
+#define __Ch_Elca_Iiop_GenericUserException__
+module Ch {
+module Elca {
+module Iiop {
+
+exception GenericUserException{
+wstring name;
+wstring message;
+wstring throwingMethod;
+};
+
+#pragma ID GenericUserException "IDL:Ch/Elca/Iiop/GenericUserException:1.0"
+
+};
+};
+};
+
+#endif

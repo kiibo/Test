@@ -1,0 +1,6 @@
+E:\jinh\Zebra\IIOPNet\IIOPChannel\binSD\IIOPChannel.dll
+E:\jinh\Zebra\IIOPNet\IIOPChannel\binSD\IIOPChannel.pdb
+E:\jinh\Zebra\IIOPNet\IIOPChannel\binSD\nunit.framework.dll
+E:\jinh\Zebra\IIOPNet\IIOPChannel\obj\Debug\IIOPChannel.csprojResolveAssemblyReference.cache
+E:\jinh\Zebra\IIOPNet\IIOPChannel\obj\Debug\IIOPChannel.dll
+E:\jinh\Zebra\IIOPNet\IIOPChannel\obj\Debug\IIOPChannel.pdb

@@ -1,0 +1,29 @@
+// auto-generated IDL file by CLS to IDL mapper
+
+// Ch\Elca\Iiop\Demo\StorageSystem\Entry.idl
+
+#include "orb.idl"
+#include "Predef.idl"
+
+#ifndef __Ch_Elca_Iiop_Demo_StorageSystem_Entry__
+#define __Ch_Elca_Iiop_Demo_StorageSystem_Entry__
+module Ch {
+module Elca {
+module Iiop {
+module Demo {
+module StorageSystem {
+
+valuetype Entry {
+public ::CORBA::WStringValue key;
+public ::CORBA::WStringValue value;
+};
+
+#pragma ID Entry "IDL:Ch/Elca/Iiop/Demo/StorageSystem/Entry:1.0"
+
+};
+};
+};
+};
+};
+
+#endif

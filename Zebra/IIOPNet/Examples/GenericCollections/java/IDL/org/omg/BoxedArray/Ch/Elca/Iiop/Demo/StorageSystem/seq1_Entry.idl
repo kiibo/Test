@@ -1,0 +1,46 @@
+// auto-generated IDL file by CLS to IDL mapper
+
+// org\omg\BoxedArray\Ch\Elca\Iiop\Demo\StorageSystem\seq1_Entry.idl
+
+#ifndef __Ch_Elca_Iiop_Demo_StorageSystem_Entry__
+module Ch {
+module Elca {
+module Iiop {
+module Demo {
+module StorageSystem {
+
+valuetype Entry;
+};
+};
+};
+};
+};
+#endif
+#include "orb.idl"
+#include "Predef.idl"
+
+#ifndef __org_omg_BoxedArray_Ch_Elca_Iiop_Demo_StorageSystem_seq1_Entry__
+#define __org_omg_BoxedArray_Ch_Elca_Iiop_Demo_StorageSystem_seq1_Entry__
+module org {
+module omg {
+module BoxedArray {
+module Ch {
+module Elca {
+module Iiop {
+module Demo {
+module StorageSystem {
+
+valuetype seq1_Entry sequence<::Ch::Elca::Iiop::Demo::StorageSystem::Entry>;
+#pragma ID seq1_Entry "IDL:org/omg/BoxedArray/Ch/Elca/Iiop/Demo/StorageSystem/seq1_Entry:1.0"
+
+};
+};
+};
+};
+};
+};
+};
+};
+
+#include "Ch\Elca\Iiop\Demo\StorageSystem\Entry.idl"
+#endif

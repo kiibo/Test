@@ -1,0 +1,49 @@
+// auto-generated IDL file by CLS to IDL mapper
+
+// Ch\Elca\Iiop\Demo\StorageSystem\Container.idl
+
+#ifndef __Ch_Elca_Iiop_Demo_StorageSystem_Entry__
+module Ch {
+module Elca {
+module Iiop {
+module Demo {
+module StorageSystem {
+
+valuetype Entry;
+};
+};
+};
+};
+};
+#endif
+#include "orb.idl"
+#include "Predef.idl"
+
+#include "org\omg\BoxedArray\Ch\Elca\Iiop\Demo\StorageSystem\seq1_Entry.idl"
+#include "Ch\Elca\Iiop\GenericUserException.idl"
+#ifndef __Ch_Elca_Iiop_Demo_StorageSystem_Container__
+#define __Ch_Elca_Iiop_Demo_StorageSystem_Container__
+module Ch {
+module Elca {
+module Iiop {
+module Demo {
+module StorageSystem {
+
+interface Container {
+
+::org::omg::BoxedArray::Ch::Elca::Iiop::Demo::StorageSystem::seq1_Entry Enumerate() raises (::Ch::Elca::Iiop::GenericUserException);
+void SetValue(in ::CORBA::WStringValue key, in ::CORBA::WStringValue value) raises (::Ch::Elca::Iiop::GenericUserException);
+void SetEntry(in ::Ch::Elca::Iiop::Demo::StorageSystem::Entry e) raises (::Ch::Elca::Iiop::GenericUserException);
+::CORBA::WStringValue GetValue(in ::CORBA::WStringValue key) raises (::Ch::Elca::Iiop::GenericUserException);
+};
+
+#pragma ID Container "IDL:Ch/Elca/Iiop/Demo/StorageSystem/Container:1.0"
+
+};
+};
+};
+};
+};
+
+#include "Ch\Elca\Iiop\Demo\StorageSystem\Entry.idl"
+#endif
