@@ -1005,6 +1005,14 @@ namespace Zebra
             this.OutXml.AppendText(conut.ToString());
         }
 
+        private void ImgToByte_Click(object sender, EventArgs e)
+        {
+            string imapath = @"D:\logo.png";
+            Image imag = Image.FromFile(imapath);
+            byte[] imagbyte= ImageHelper.ImageToBytes(imag);
+
+        }
+
 
     }
 

@@ -22,3 +22,11 @@ D:\测试\Zebra\WatchingSystemFiles\bin\Debug\SqliteLibrary.pdb
 D:\测试\Zebra\WatchingSystemFiles\obj\Debug\WatchingSystemFiles.csprojResolveAssemblyReference.cache
 D:\测试\Zebra\WatchingSystemFiles\obj\Debug\WatchingSystemFiles.dll
 D:\测试\Zebra\WatchingSystemFiles\obj\Debug\WatchingSystemFiles.pdb
+D:\测试\Test\Zebra\WatchingSystemFiles\bin\Debug\WatchingSystemFiles.dll
+D:\测试\Test\Zebra\WatchingSystemFiles\bin\Debug\WatchingSystemFiles.pdb
+D:\测试\Test\Zebra\WatchingSystemFiles\bin\Debug\SqliteLibrary.dll
+D:\测试\Test\Zebra\WatchingSystemFiles\bin\Debug\System.Data.SQLite.dll
+D:\测试\Test\Zebra\WatchingSystemFiles\bin\Debug\SqliteLibrary.pdb
+D:\测试\Test\Zebra\WatchingSystemFiles\obj\Debug\WatchingSystemFiles.csprojResolveAssemblyReference.cache
+D:\测试\Test\Zebra\WatchingSystemFiles\obj\Debug\WatchingSystemFiles.dll
+D:\测试\Test\Zebra\WatchingSystemFiles\obj\Debug\WatchingSystemFiles.pdb
